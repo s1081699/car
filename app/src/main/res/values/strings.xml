@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">car</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="map">MAP</string>
+    <string name="email">s1081699@gm.pu.edu.tw</string>
+    <string name="password">123456</string>
+    <string name="register">註冊</string>
+    <string name="login">登入</string>
+    <string name="pay">支付</string>
+    <string name="record">預約紀錄</string>
+</resources>
